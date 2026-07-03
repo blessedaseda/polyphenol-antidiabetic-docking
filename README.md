@@ -95,7 +95,9 @@ Radius = 9.7
 * Docking analysis
 * Binding-mode interpretation
 
+## Full Research Report
 
+[Download the Full Research Report](/FINAL_Comprehensive_Docking_Report.docx)
 
 ## Author
 
